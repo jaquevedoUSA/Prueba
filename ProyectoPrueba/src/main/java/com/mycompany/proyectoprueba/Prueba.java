@@ -10,5 +10,7 @@ package com.mycompany.proyectoprueba;
  * @author jaque
  */
 public class Prueba {
-    
+    public static void main(String[] args) {
+        
+    }
 }
