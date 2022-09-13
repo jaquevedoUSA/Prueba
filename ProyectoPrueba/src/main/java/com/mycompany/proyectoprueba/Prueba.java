@@ -10,6 +10,9 @@ package com.mycompany.proyectoprueba;
  * @author jaque
  */
 public class Prueba {
+    
+    private int Hola = 0;
+    
     public static void main(String[] args) {
         
         
